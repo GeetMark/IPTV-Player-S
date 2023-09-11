@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "971017005618",
+    "project_id": "topnewsly-5dae0",
+    "storage_bucket": "topnewsly-5dae0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971017005618:android:6e75c008581ab7d4f8ea2b",
+        "android_client_info": {
+          "package_name": "com.geetmark.iptvplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971017005618-h1o64oao8m9ueg3r78mrcs0i65o3sd7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf61KrTd1q9O_5KmQn81_5QWUm3Tz3oR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971017005618-h1o64oao8m9ueg3r78mrcs0i65o3sd7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971017005618:android:da79b6ca33c98fd9f8ea2b",
+        "android_client_info": {
+          "package_name": "com.topnewsly.topnewsly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971017005618-i742pro6n0dja9gl1vie73qook0hdsl8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.topnewsly.topnewsly",
+            "certificate_hash": "61652475f85a3a50b8e0485bb0b126a728c70893"
+          }
+        },
+        {
+          "client_id": "971017005618-h1o64oao8m9ueg3r78mrcs0i65o3sd7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf61KrTd1q9O_5KmQn81_5QWUm3Tz3oR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971017005618-h1o64oao8m9ueg3r78mrcs0i65o3sd7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
